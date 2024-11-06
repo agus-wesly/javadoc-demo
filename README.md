@@ -2,9 +2,20 @@
 
 ## How to run
 
+Make sure you already install JAVA & JVM
+
+```
+java --version
+javac --version
+```
+
+Build the app
+
 ```
 javac src/*.java -d output
 ```
+
+Run
 
 ```
 cd output
